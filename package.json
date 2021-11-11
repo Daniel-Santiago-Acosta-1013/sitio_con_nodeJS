@@ -1,0 +1,22 @@
+{
+  "name": "sitio-web-con-nodejs",
+  "version": "1.0.0",
+  "description": "sitio web para aprender",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniel-Santiago-Acosta-1013/sitio_con_nodeJS.git"
+  },
+  "author": "Santiago acosta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daniel-Santiago-Acosta-1013/sitio_con_nodeJS/issues"
+  },
+  "homepage": "https://github.com/Daniel-Santiago-Acosta-1013/sitio_con_nodeJS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
