@@ -1,4 +1,4 @@
 <h1 align="center"> Sitio con nodeJS </h1>
 <p align="center">
-  <img src="./screencapture.png" title="hover text">
+  <img src="./screencapture/screencapture.png" title="hover text">
 </p>
