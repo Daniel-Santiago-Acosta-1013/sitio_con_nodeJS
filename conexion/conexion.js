@@ -12,11 +12,10 @@ connection.connect(
         else{ console.log("Conexion fallida");}
     }
 );
+module.exports=connection;
 
-connection.query("SELECT * FROM tblproductos", function(err, resultados){
+// connection.query("SELECT * FROM tblproductos", function(err, resultados){
+//     console.log(resultados);  
+// });
 
-    console.log(resultados);
-    
-});
-
-connection.end();
+// connection.end();
