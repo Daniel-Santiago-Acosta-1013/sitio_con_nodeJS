@@ -9,8 +9,9 @@
 
     <% for(var libro=0;libro<Libros.length;libro++) { %>
 
-      <div class="col-sm-6">
+      <div class="col-sm-3">
         <div class="card">
+          <img height="317" src="<%=Libros[libro].imagen%>" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title"><%=Libros[libro].titulo%></h5>
             <p class="card-text"><%=Libros[libro].descripcion%><br>
